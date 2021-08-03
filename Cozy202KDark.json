@@ -2,6 +2,7 @@
   "name": "Cozy202K Darker",
   "author": "Fox and Hanibee",
   "version": "2.3",
+  "updater": "https://raw.githubusercontent.com/GangsterFox/AliuFox-themes/main/Cozy202KDark.json",
   "color_status_grey_600": -13619375,
   "color_brand_500_alpha_10": 443210694,
   "color_chat_send_btn_dark": -13619375,
