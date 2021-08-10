@@ -1,5 +1,6 @@
 # Fox's Themes for Aliucord
 Themes I made for aliu
+* [License](https://github.com/GangsterFox/AliuFox-themes/blob/main/LICENSE)
 
 <h1 align="center">Cozy202K</h1>
 
