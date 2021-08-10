@@ -2,6 +2,7 @@
   "name": "Cozy202K",
   "author": "Fox",
   "version": "2.3",
+  "license": "OSLv3",
   "updater": "https://raw.githubusercontent.com/GangsterFox/aliu-themes/main/Cozy202K.json",
   "drawablecolor_drawable_button_grey": -4343061,
   "color_status_grey_600": -13619375,
