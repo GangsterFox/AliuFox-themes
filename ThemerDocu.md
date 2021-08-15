@@ -10,8 +10,8 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 {
     "name": "theme name",
     "author": "author name",
-    "version": "1.0.0, will be used by updater in the future",
-    "updater": "updater url (must be raw url) not actually implemented yet lol",
+    "version": "1.0.0, version for theme, used for updater string",
+    "updater": "updater url (must be a raw.githubusercontent.com url). Needs version bump if you update your theme",
     "license": "license, not implemented into the ui",
     "background": "url of background, default transparency is set to 150 in plugin",
     "background_transparency": 0 (fully transparent, number goes from 0 to 255),
