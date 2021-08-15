@@ -30,7 +30,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 | brand_new | accent color |
 | brand_new 230 to 630 | accent colors for buttons, bot tags, on/off sliders blah blah |
 | brand_new_560 | change the reaction clicked border |
-| link | literally just link colors and mention color |
+| link | literally just link color |
 
 <h1 align="center">Primary Colors</h1>
 
