@@ -1,5 +1,16 @@
 this is a docu for dark mode theming, be welcome to add things to the docu! I would be really happy
 
+misc things/special strings used for the themer plugin
+"name": "theme name",
+"author": "author name",
+"version": "1.0.0, will be used by updater in the future",
+"updater": "updater url (must be raw.githubuser.com url) not actually implemented yet lol",
+"license": "license, not implemented into the ui",
+"background_url": "url of background, default transparency is set to 150 in plugin",
+"background_transparency": 0 (fully transparent, number goes from 0 to 255),
+"font": "link to the font, can be any cdn link. You can use a .tff or a .otf"
+
+
 brand colors aka. accent colors 
 
 brand up to 900 = old brand colors, are not used anymore so they are useless
