@@ -55,7 +55,8 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 | String          | Purpose                 |
 | ---------------- |:-----------------------:|
 | uikit_btn_bg_color_selector_brand | changes buttons in general so send button for example |
-| color_uikit_btn_bg_color_selector_green | change color for the online icon |
+| uikit_btn_bg_color_selector_green | change color for the online icon |
+| uikit_btn_bg_color_selector_red | changes the ping color |
 
 <h1 align="center">Drawable Strings</h1>
 
