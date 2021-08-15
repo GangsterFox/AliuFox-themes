@@ -23,7 +23,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 
 * Accent colors
 
-| Strings          | Purpose                 |
+| String          | Purpose                 |
 | ---------------- |:-----------------------:|
 | brand up to 900 | old brand colors, are not used anymore so they are useless |
 | brand_new up to 900 | new brand colors |
@@ -36,7 +36,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 
 * Primary colors, used for the big things chat bg, server list, member list, etc
 
-| Strings          | Purpose                 |
+| String          | Purpose                 |
 | ---------------- |:-----------------------:|
 | primary_600 | server folders and something else I have no idea xdddd |
 | primary_700 | spoilers,emebeds,top bar, DMs Button, bg for pings and server streaming icons (in plugin only changes the DMs button and also top bar) |
@@ -52,7 +52,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 
 * uikit strings. They are in the Color Values screen if you dont know
 
-| Strings          | Purpose                 |
+| String          | Purpose                 |
 | ---------------- |:-----------------------:|
 | uikit_btn_bg_color_selector_brand | changes buttons in general so send button for example |
 
@@ -60,7 +60,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 
 * Drawable strings, used in a lot of places
 
-| Strings          | Purpose                 |
+| String          | Purpose                 |
 | ---------------- |:-----------------------:|
 | drawable_button_grey | unread messages button |
 | item_background_material | mostly used for the top bar(where the name of the plguin, version and author name is written) |
