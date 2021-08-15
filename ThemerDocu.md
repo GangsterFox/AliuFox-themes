@@ -1,17 +1,27 @@
-this is a docu for dark mode theming, be welcome to add things to the docu! I would be really happy
+# Themer Docu for the xposed/plugin
+This is a docu for dark mode theming, be welcome to add things to the docu! I would be really happy
+* [License](https://github.com/GangsterFox/AliuFox-themes/blob/main/LICENSE)
 
-misc things/special strings used for the themer plugin
-"name": "theme name",
-"author": "author name",
-"version": "1.0.0, will be used by updater in the future",
-"updater": "updater url (must be raw.githubuser.com url) not actually implemented yet lol",
-"license": "license, not implemented into the ui",
-"background_url": "url of background, default transparency is set to 150 in plugin",
-"background_transparency": 0 (fully transparent, number goes from 0 to 255),
-"font": "link to the font, can be any cdn link. You can use a .tff or a .otf"
+<h1 align="center">Misk Strings for Plugin</h1>
 
+* Strings used for the plugin to tell the user what the name of the theme is, author, version, license, etc but also things like custom font and custom background
 
-brand colors aka. accent colors 
+```json
+{
+    "name": "theme name",
+    "author": "author name",
+    "version": "1.0.0, will be used by updater in the future",
+    "updater": "updater url (must be raw url) not actually implemented yet lol",
+    "license": "license, not implemented into the ui",
+    "background": "url of background, default transparency is set to 150 in plugin",
+    "background_transparency": 0 (fully transparent, number goes from 0 to 255),
+    "font": "link to the font, can be any cdn link. You can use a .tff or a .otf"
+}
+```
+
+<h1 align="center">Brand/Accent Colors</h1>
+
+* Accent colors
 
 brand up to 900 = old brand colors, are not used anymore so they are useless
 brand_new up to 900 = new brand colors 
@@ -20,7 +30,9 @@ brand_new 230 to 630 = accent colors for buttons, bot tags, on/off sliders blah 
 brand_new_560 = change the reaction clicked border 
 link = literally just link colors and mention color
 
-primary colors, used for the big things like chat bg, server list, member list, etc
+<h1 align="center">Primary Colors</h1>
+
+* Primary colors, used for the big things chat bg, server list, member list, etc
 
 primary_600 = server folders and something else I have no idea xdddd
 primary_700 = spoilers,emebeds,top bar, DMs Button, bg for pings and server streaming icons (in plugin only changes the DMs button and also top bar)
@@ -33,11 +45,15 @@ primary_dark_630 = server channels and channel header in member list
 primary_dark_700 = server list
 primary_800 = file select tab thing where you can choose from images, files, photots or go back to keyboard
 
-small uikit things which are really really useful
+<h1 align="center">uikit Strings</h1>
+
+* uikit strings. They are in the Color Values screen if you dont know
 
 uikit_btn_bg_color_selector_brand = changes buttons in general so send button for example
 
-drawable things which are neat if I remember
+<h1 align="center">Drawable Strings</h1>
+
+* Drawable strings, used in a lot of places
 
 drawable_button_grey = unread messages button
 item_background_material = mostly used for the top bar(where the name of the plguin, version and author name is written)
@@ -50,6 +66,8 @@ drawable_voice_user_background_speaking = speaking background, I dont know how t
 drawable_voice_sensitivity_progress = the progress bar for when you test out your mic sens
 ic_ban_red_24dp = the ban icon color, kind of pointless tbh and no I dont know what the kick icon color string like at all
 
+<h1 align="center">Links for experienced Users</h1>
 
-this link is mostly useless but can be of some help maybe in the future or if you understand it correctly you can find a lot of things to find in this gist
+* This link by ven might help you if you know what you are doing
+
 https://gist.github.com/Vendicated/7e8aa7b2512b8e38e041692cbf34acfa
