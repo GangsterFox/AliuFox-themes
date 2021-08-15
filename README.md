@@ -1,6 +1,11 @@
 # Fox's Themes for Aliucord
 Themes I made for aliu
 * [License](https://github.com/GangsterFox/AliuFox-themes/blob/main/LICENSE)
+* [Themer Docu for theming](https://github.com/GangsterFox/AliuFox-themes/blob/main/ThemerDocu.md)
+
+> Thanks for the help from Hanibee for making the darker version of Cozy202K.
+> 
+> Thanks for the help from Veis for allowing me to use his Revert theme to make accent colors work on the plugin
 
 <h1 align="center">Cozy202K</h1>
 
