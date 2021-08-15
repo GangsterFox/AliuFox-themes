@@ -32,6 +32,8 @@ drawable_button_grey = unread messages button
 item_background_material = mostly used for the top bar(where the name of the plguin, version and author name is written)
 design_bottom_navigation_item_background = is used mostly for the bottom part for plugin page(where description is, uninstall and settings) also themes search box in plugins page
 ic_channel_text = by the name it changes the channel text in the channel list, since it doesnt get themed it will only theme the # in the channel list, top bar when looking in chat and in member list
+drawable_button_red = the red NEW↑ in the guild list when you get a ping in a guild
+drawable_button_red_neutral = I actually have no idea what it does, if you find anything please tell me, thanks.
 
 this link is mostly useless but can be of some help maybe in the future or if you understand it correctly you can find a lot of things to find in this gist
 https://gist.github.com/Vendicated/7e8aa7b2512b8e38e041692cbf34acfa
