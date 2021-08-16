@@ -57,7 +57,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 | ---------------- |:-----------------------:|
 | uikit_btn_bg_color_selector_brand | changes buttons in general so send button for example |
 | uikit_btn_bg_color_selector_green | change color for the online icon |
-| uikit_btn_bg_color_selector_red | changes the ping color |
+| uikit_btn_bg_color_selector_red | changes the ping color and in plugin list the uninstall button |
 
 <h1 align="center">Drawable Strings</h1>
 
