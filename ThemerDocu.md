@@ -57,7 +57,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 | ---------------- |:-----------------------:|
 | uikit_btn_bg_color_selector_brand | changes buttons in general so send button for example |
 | uikit_btn_bg_color_selector_green | change color for the online icon |
-| uikit_btn_bg_color_selector_red | changes the ping color and in plugin list the uninstall button |
+| uikit_btn_bg_color_selector_red | changes the ping color and in plugin list the uninstall button, also changes color for the "NEW MESSAGES" in chat |
 
 <h1 align="center">Drawable Strings</h1>
 
@@ -66,6 +66,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 | String          | Purpose                 |
 | ---------------- |:-----------------------:|
 | drawable_button_grey | unread messages button |
+| drawable_overlay_channels_selected_dark | Selected channel color in channel list for dark mode |
 | item_background_material | mostly used for the top bar(where the name of the plugin, version and author name is written) |
 | design_bottom_navigation_item_background | is used mostly for the bottom part of the plugin page(where description is, uninstall and settings) also themes search box in plugins page |
 | ic_channel_text | by the name it changes the channel text in the channel list, since it doesn't get themed it will only theme the # in the channel list and top bar when looking in chat |
@@ -81,3 +82,4 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 * This link by ven might help you if you know what you are doing
 
 https://gist.github.com/Vendicated/7e8aa7b2512b8e38e041692cbf34acfa
+
