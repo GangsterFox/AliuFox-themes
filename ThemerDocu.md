@@ -43,7 +43,8 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 | primary_dark_100 | changes chat scroll bar |
 | primary_dark_360 | changes the cursor when typing color, bare in mind this WILL change the nitro text color in the settings, the turned on switch(best seen in plugins page) and probably more |
 | primary_dark_600 | main chat bg and also somehow changes the member list bg |
-| primary_630 | channel header and a lot of other stuff(use primary_dark_630 since it somehow changes all of this stuff too in plugin) |
+| primary_630 | channel header |
+| primary_dark_630 | channel list |
 | primary_dark_200 | changes text color for main text |
 | primary_dark_400 | changes the text "Message #..." color and also timestamp color also changes the status text in member list |
 | primary_dark_660 | color for the chat bar where you write your messages, also changes the icon bg for gifts and attachment |  
@@ -85,3 +86,4 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 
 https://gist.github.com/Vendicated/7e8aa7b2512b8e38e041692cbf34acfa
 
+*soon light mode instructions by popular demand*
