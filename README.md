@@ -5,7 +5,9 @@ Themes I made for aliu
 
 > Thanks for the help from Hanibee for making the darker version of Cozy202K.
 > 
-> Thanks for the help from Veis for allowing me to use his Revert theme to make accent colors work on the plugin
+> Thanks for the help from Veis for allowing me to use his Revert theme to make accent colors work on the plugin.
+> 
+> Thanks to Fred for fixing my spelling errors in the docu.
 
 <h1 align="center">Cozy202K</h1>
 
