@@ -13,11 +13,15 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
     "version": "1.0.0, version for theme, used for updater string",
     "updater": "updater url (must be a raw.githubusercontent.com url). Needs version bump if you update your theme",
     "license": "license, not implemented into the ui",
-    "background": "url of background, default transparency is set to 150 in plugin",
-    "background_transparency": 0 (fully transparent, number goes from 0 to 255),
-    "font": "link to the font, can be any cdn link. You can use a .tff or a .otf"
+    "background": "url of background",
+    "background_transparency": 0,
+    "font": ""
 }
 ```
+* Info on background transparency: 0 is fully transparent while 255 is fully opaque. The default transparency setting used in the plugin is 150
+* Info on font: please use a cdn link. I recommend you to use cdn.discord.com or raw.githubusercontent.com. Use a .ttf file or a .otf
+* Info on background: Image formats like png, jpg, jpeg should work. Animated png's or any animated formats **do not work as of now** 
+* Info on updater: it will only work with github as far as I know, so if you want your themes to get automatically updated, please set up a repo with your themes
 
 <h1 align="center">Brand/Accent Colors</h1>
 
@@ -86,4 +90,12 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 
 https://gist.github.com/Vendicated/7e8aa7b2512b8e38e041692cbf34acfa
 
-*soon light mode instructions by popular demand*
+<h1 align="center">Light mode theming</h1>
+
+* The way to theme in light mode is to find as many strings which have the word "light". This means for example if you find primary_light, that means you found a light mode string.
+* This might be quite weird to do since this is some territory no one has really tried yet. Bare in mind this might not work on plugin but dont take my word.
+* When you try to theme in light mode, at least with primary colors, try to use the same strings as written in the docu but try to add the _light string. 
+* **Always** search before you do anything to find strings.
+* This means that if you will try theming in light mode, just try to add _light to the string
+* And as always, Good luck
+*this will get updated when I will found out more.* 
