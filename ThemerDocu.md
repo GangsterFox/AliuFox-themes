@@ -32,6 +32,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 | brand up to 900 | old brand colors, are not used anymore, so they are useless |
 | brand_new up to 900 | new brand colors |
 | brand_new | accent color |
+| brand_new_360 | changes the cursor when typing color, bare in mind this WILL change the nitro text color in the settings, the turned on switch(best seen in plugins page) and probably more |
 | brand_new 230 to 630 | accent colors for buttons, bot tags, on/off sliders blah blah |
 | brand_new_560 | change the reaction clicked border |
 | link | literally just link color |
@@ -45,7 +46,6 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 | primary_600 | server folders and something else I have no idea xdddd |
 | primary_700 | spoilers,embeds,top bar, DMs Button, bg for pings and server streaming icons (in plugin only changes the DMs button and also top bar) |
 | primary_dark_100 | changes chat scroll bar |
-| primary_dark_360 | changes the cursor when typing color, bare in mind this WILL change the nitro text color in the settings, the turned on switch(best seen in plugins page) and probably more |
 | primary_dark_600 | main chat bg and also somehow changes the member list bg |
 | primary_630 | channel header |
 | primary_dark_630 | channel list |
