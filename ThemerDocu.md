@@ -50,7 +50,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
 | primary_630 | channel header |
 | primary_dark_630 | channel list |
 | primary_dark_200 | changes text color for main text |
-| primary_dark_400 | changes the text "Message #..." color and also timestamp color also changes the status text in member list |
+| primary_dark_400 | "Message #..." color, timestamps, user statuses, UserDetails texts, TextInput placeholders (chat, searchbars), Guild/Category name in search tab, new day divider lines in chat |
 | primary_dark_660 | color for the chat bar where you write your messages, also changes the icon bg for gifts and attachment |  
 | primary_dark_800 | color for the bottom bar in the channel list, where the icons for friends, search, mentions, etc is |
 | primary_dark_700 | server list |
