@@ -12,7 +12,7 @@ This is a docu for dark mode theming, be welcome to add things to the docu! I wo
     "author": "author name",
     "version": "1.0.0, version for theme, used for updater string",
     "updater": "updater url (must be a raw.githubusercontent.com url). Needs version bump if you update your theme",
-    "license": "license, not implemented into the ui",
+    "license": "license for your theme for example MIT license",
     "background": "url of background",
     "background_transparency": 0,
     "font": ""
