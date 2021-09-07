@@ -18,7 +18,7 @@ Used to show name of the theme, author, etc. They are in the "manifest" section 
   "name": "the theme name",
   "author": "authors name",
   "license": "license, ask if you want to add one but dont know how to or what license to choose in #theme-development",
-  "version": "this is the verion number, DO NOT USE TEXT AS A VERSION BECAUSE THIS **WILL** BREAK THE UPDATER AND WONT UPDATE YOUR THEME AT ALL,
+  "version": "this is the verion number, DO NOT USE TEXT AS A VERSION BECAUSE THIS **WILL** BREAK THE UPDATER AND WONT UPDATE YOUR THEME AT ALL",
   "updater": "this is where you put your raw.githubusercontent.com link, if you ever want to update your theme just bump the version number up"
 }
 ```
