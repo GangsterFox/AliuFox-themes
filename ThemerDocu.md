@@ -96,7 +96,6 @@ When done correctly it should look like this in the json
 | uikit_btn_bg_color_selector_brand | changes the settings button in settings like in the plugin list or dev options the 4 at the bottom |
 | uikit_btn_bg_color_selector_green | change color for the online icon |
 | uikit_btn_bg_color_selector_red | changes the ping color and in plugin list the uninstall button, also changes color for the "NEW MESSAGES" in chat |
-| uikit_btn_color_selector_background_accent_dark | changes muted channel color in channel sidebar, the thread spine, the blobs when member list is loading and also the emote picker selected for emoji/GIFs/Stickers(also changes the text color of the emoji/GIFs/Stickers) |
 
 <h1 align="center">Drawable Strings</h1>
 
