@@ -1,12 +1,23 @@
 {
-  "name": "LandScape",
-  "author": "Fox",
-  "version": "1",
-  "license": "OSL-3.0",
-  "background_url": "https://cdn.wallpapersafari.com/22/29/EZ68pA.jpg",
-  "background_transparency": 75,
-  "updater": "https://raw.githubusercontent.com/GangsterFox/AliuFox-themes/main/LandScape.json",
-  "mention_highlight": 438408947,
-  "drawablecolor_drawable_overlay_channels_selected_dark": -935180723,
-  "color_primary_dark_630": -1758514890
+    "manifest": {
+        "author": "Fox",
+        "name": "LandScape",
+        "updater": "https:\/\/raw.githubusercontent.com\/GangsterFox\/AliuFox-themes\/main\/LandScape.json",
+        "version": "1.0.1",
+        "license": "OSL-3.0"
+    },
+    "background": {
+        "alpha": 75,
+        "url": "https:\/\/media.discordapp.net\/attachments\/590317150959566849\/885288479997714432\/EZ68pA.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "mention_highlight": 438408947
+    },
+    "colors": {
+        "primary_dark_630": -1758514890
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -935180723
+    }
 }
