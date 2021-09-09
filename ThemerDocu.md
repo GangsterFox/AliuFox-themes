@@ -96,6 +96,7 @@ When done correctly it should look like this in the json
 | uikit_btn_bg_color_selector_brand | changes the settings button in settings like in the plugin list or dev options the 4 at the bottom |
 | uikit_btn_bg_color_selector_green | change color for the online icon |
 | uikit_btn_bg_color_selector_red | changes the ping color and in plugin list the uninstall button, also changes color for the "NEW MESSAGES" in chat |
+| uikit_settings_item_text_color_dark<br><br>_*Replace `_dark` with `_light` at the end for this to work on light theme_ | Changes color of chat scroll bar.<br>Changes text color in: Settings, Server settings, Channel settings, context menu while long pressing a message, context menu while long pressing a DM. Also Changes "Uninstall" text color in Aliucord Plugins section/list.
 
 <h1 align="center">Drawable Strings</h1>
 
