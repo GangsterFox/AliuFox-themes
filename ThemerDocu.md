@@ -57,6 +57,7 @@ When done correctly it should look like this in the json
 | brand_new | accent color |
 | brand_new_360 | changes the cursor when typing color, bare in mind this WILL change the nitro text color in the settings, the turned on switch(best seen in plugins page) and probably more |
 | brand_new 230 to 630 | accent colors for buttons, bot tags, on/off sliders blah blah |
+| brand_new_530 | change the ping color | 
 | brand_new_560 | change the reaction clicked border |
 | link | literally just link color |
 
@@ -95,7 +96,7 @@ When done correctly it should look like this in the json
 | ---------------- |:-----------------------:|
 | uikit_btn_bg_color_selector_brand | changes the settings button in settings like in the plugin list or dev options the 4 at the bottom |
 | uikit_btn_bg_color_selector_green | change color for the online icon |
-| uikit_btn_bg_color_selector_red | changes the ping color and in plugin list the uninstall button, also changes color for the "NEW MESSAGES" in chat |
+| uikit_btn_bg_color_selector_red | changes the in plugin list the uninstall button, also changes color for the "NEW MESSAGES" in chat |
 | uikit_settings_item_text_color_dark | secondary text color |
 
 <h1 align="center">Drawable Strings</h1>
